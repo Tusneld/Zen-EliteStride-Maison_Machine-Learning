@@ -50,7 +50,7 @@ failure.
 
 | File | Description |
 |---|---|
-| `shoe_sales_ml_analysis.ipynb` | Full annotated notebook — Part A (real data models), Part B (synthetic validation), Part C (summary & conclusions) |
+| `shoe_sales_ml_analysis.ipynb` | Full annotated notebook - Part A (real data models), Part B (synthetic validation), Part C (summary & conclusions) |
 | `ml_jupyter_setup_guide.md` | Step-by-step guide to install the additional ML libraries and run the notebook |
 | `Zen_EliteStride_Maison_ML.xlsx` | Source dataset |
 
