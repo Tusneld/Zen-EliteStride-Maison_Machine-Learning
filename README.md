@@ -1,6 +1,6 @@
 # Zen EliteStride Maison - Machine Learning Analysis
 ---
-![Zen EliteStride Maison_ML]()
+![Zen EliteStride Maison_ML](https://github.com/Tusneld/Zen-EliteStride-Maison_Machine-Learning/blob/11a5c077c65995f454ca1186aa30d1d8dc086c24/ML.PNG)
 ---
 Fifth and final stage of a five-part analytics pipeline built on the same
 shoe sales dataset: **Excel → Power BI → SQL → Python → Machine Learning**.
